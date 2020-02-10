@@ -16,3 +16,13 @@ Strings, Numbers,Booleans, `if statements`, else statements and code wars.
 __values cannot reassign values__
 
 __variables can be changed whenever__
+
+- `===` | ---  They are the same |
+- `!==` | They are different |
+- `>`   | First one is greater|
+- `<`   | Second one is greater|
+- `>=`  | greater or equal to|
+- `<=`  | less than or equal to|
+
+*Inclusive* - includes both numbers.
+
