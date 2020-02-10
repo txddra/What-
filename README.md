@@ -26,3 +26,10 @@ __variables can be changed whenever__
 
 *Inclusive* - includes both numbers.
 
+*If Statement* - is a block of code that executes when the statement is true.
+
+__if statement: `say something`__
+
+__else statement: `say something else`__
+
+
